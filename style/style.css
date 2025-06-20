@@ -181,7 +181,7 @@ picture {
     padding-right: 30px;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 450px) {
   .box-list {
     grid-template-columns: repeat(1, 1fr);
   }
